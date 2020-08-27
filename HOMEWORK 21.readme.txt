@@ -1,0 +1,13 @@
+HOMEWORK 21
+First thing I did was take use the starter codes and took crowd sale code and joined with  puppercoin crowdsale code. 
+I changed the decibels parameter to 18.
+Then I lead the original supply parameter alone. 
+Then I need to set up the parameters with the specifications from the homework instructions.
+After I set up the parameters, I compiled then deloyed the contracts.
+After that I was able to get a token address and a sale address.
+The token address is of the first contract. 
+I took that then pasted that address into “At Address” 
+Went back up to chose puppercoin to deploy the “At Address”
+Then I clicked on token sale address and copied that
+Then I put token sale address and put that in to “address” then went and chose puppercoin sale to deloy the contract and review the successful transaction. 
+
